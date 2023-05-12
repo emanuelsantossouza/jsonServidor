@@ -1,0 +1,3 @@
+____quando abaixar o json___
+
+1) realizar o npm i para restaurar
